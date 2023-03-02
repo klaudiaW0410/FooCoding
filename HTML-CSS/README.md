@@ -7,3 +7,6 @@ https://klaudiaw0410.github.io/FooCoding/HTML-CSS/Week01/
 
 Week02 :Grid
 https://klaudiaw0410.github.io/FooCoding/HTML-CSS/week02/
+
+Week03 :
+https://klaudiaw0410.github.io/FooCoding/HTML-CSS/week03/
