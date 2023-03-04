@@ -103,7 +103,7 @@ max-width: 100%;
 background-image: linear-gradient(
 rgba(0, 0, 0, 0.5),
 rgba(0, 0, 0, 0.5)
-), url("../img/sensor.jpeg");
+), url("img/sensor.jpeg");
 background-size: cover;
 background-position: center;
 background-repeat: no-repeat;
@@ -117,7 +117,7 @@ position: relative;
 background-image: linear-gradient(
 rgba(0, 0, 0, 0.5),
 rgba(0, 0, 0, 0.5)
-), url("../img/drones.jpg");
+), url("img/drones.jpg");
 background-size: cover;
 background-position: center;
 background-repeat: no-repeat;
@@ -130,7 +130,7 @@ position: relative;
 background-image: linear-gradient(
 rgba(0, 0, 0, 0.5),
 rgba(0, 0, 0, 0.5)
-), url("../img/join.webp");
+), url("img/join.webp");
 background-size: cover;
 background-position: center;
 background-repeat: no-repeat;
@@ -143,7 +143,7 @@ position: relative;
 background-image: linear-gradient(
 rgba(0, 0, 0, 0.5),
 rgba(0, 0, 0, 0.5)
-), url("../img/ukrain.jpeg");
+), url("img/ukrain.jpeg");
 background-size: cover;
 background-position: center;
 background-repeat: no-repeat;
@@ -157,7 +157,7 @@ position: relative;
 background-image: linear-gradient(
 rgba(0, 0, 0, 0.5),
 rgba(0, 0, 0, 0.5)
-), url("../img/valencia.jpg");
+), url("img/valencia.jpg");
 background-size: cover;
 background-position: center;
 background-repeat: no-repeat;
@@ -478,7 +478,7 @@ padding: 1rem 6rem 1rem 6rem;
 background-image: linear-gradient(
 rgba(0, 0, 0, 0.5),
 rgba(0, 0, 0, 0.5)
-), url("../img/sensor.jpeg");
+), url("img/sensor.jpeg");
 background-size: cover;
 background-position: center;
 background-repeat: no-repeat;
@@ -494,7 +494,7 @@ position: relative;
 background-image: linear-gradient(
 rgba(0, 0, 0, 0.5),
 rgba(0, 0, 0, 0.5)
-), url("../img/drones.jpg");
+), url("img/drones.jpg");
 background-size: cover;
 background-position: center;
 background-repeat: no-repeat;
@@ -509,7 +509,7 @@ position: relative;
 background-image: linear-gradient(
 rgba(0, 0, 0, 0.5),
 rgba(0, 0, 0, 0.5)
-), url("../img/join.webp");
+), url("img/join.webp");
 background-size: cover;
 background-position: center;
 background-repeat: no-repeat;
@@ -524,7 +524,7 @@ position: relative;
 background-image: linear-gradient(
 rgba(0, 0, 0, 0.5),
 rgba(0, 0, 0, 0.5)
-), url("../img/ukrain.jpeg");
+), url("img/ukrain.jpeg");
 background-size: cover;
 background-position: center;
 background-repeat: no-repeat;
@@ -539,7 +539,7 @@ position: relative;
 background-image: linear-gradient(
 rgba(0, 0, 0, 0.5),
 rgba(0, 0, 0, 0.5)
-), url("../img/valencia.jpg");
+), url("img/valencia.jpg");
 background-size: cover;
 background-position: center;
 background-repeat: no-repeat;
