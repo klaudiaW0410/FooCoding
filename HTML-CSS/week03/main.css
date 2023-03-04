@@ -76,7 +76,7 @@
     }
     .flag{
     
-    z-index: 1!important;
+    z-index: 1;
     font-size: 1.5rem;
     margin-left: 0.5rem;
     width: 1.5rem;
@@ -150,7 +150,6 @@
     background-repeat: no-repeat;
     color:white;
     text-align: center;
-
     position: relative;
     
     }
@@ -368,7 +367,7 @@
     
     /*------------ Big screen ------------*/
     
-    @media (min-width: 800px) {
+    @media (min-width: 1200px) {
     
     nav ul{
     padding: 0;
@@ -435,7 +434,7 @@
     }
     .flag{
     
-    z-index: 1!important;
+    z-index: 1;
     font-size: 1.5rem;
     margin-left: 0.5rem;
     width: 1.5rem;
